@@ -1,4 +1,4 @@
-# ai-essay-analyzer
+# ai-essay-analyzer https://medium.com/@debanghosh/building-a-ai-essay-analyzer-5d3b2c2a6c5d
 "AI-powered essay analyzer with honest scoring"
 ---
 
